@@ -1,0 +1,41 @@
+### Runtime stuff: ###
+
+# Temporary builds
+*.class
+*.jar
+*.debug
+sources/*
+CountUppercase
+vagrant/.vagrant/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+### Operating Systems stuff ###
+
+# OSX
+.DS_Store
+*.DS_Store
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+
+### IDE stuff ###
+
+# IDEA
+.idea
+
+# Code IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
